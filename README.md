@@ -2,7 +2,7 @@
 
 - 🔭 Procuro oportunidade no Desenvolvimento Web
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas
-- 🌱 Estudo também linguagem Python
+- 🌱 Estudo também linguagem JavaScript
 
 <div align="center">
   <a href="https://github.com/melk-azevedo">
