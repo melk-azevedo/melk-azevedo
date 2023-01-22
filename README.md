@@ -1,8 +1,11 @@
 ## Olá! Eu sou Melk Azevedo
 
 - 🔭 Procuro oportunidade no Desenvolvimento Web
+- 🔭 Desenvolvedor Front-End
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas
-- 🌱 Estudo também linguagem JavaScript
+- 🌱 Estudo a linguagem JavaScript e framework Vue.js
+- 🌱 Estudo também HTML5 e CSS3
+
 
 <div align="center">
   <a href="https://github.com/melk-azevedo">
