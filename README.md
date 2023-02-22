@@ -4,7 +4,7 @@
 - 🔭 Desenvolvedor Front-End
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas
 - 🌱 Estudo a linguagem JavaScript e framework Vue.js
-- 🌱 Estudo também HTML5 e CSS3
+- 🌱 Estudo também HTML5 e CSS3 e framework Bootstrap
 
 
 <div align="center">
