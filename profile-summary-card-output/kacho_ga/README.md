@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/melk-azevedo/melk-azevedo/main/profile-summary-card-output/kacho_ga/4-productive-time.svg)
+```
+
+    
