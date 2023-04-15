@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/melk-azevedo/melk-azevedo/main/profile-summary-card-output/date_night/4-productive-time.svg)
-```
-
-    
