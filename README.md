@@ -1,10 +1,7 @@
 ## Olá! Eu sou Melk Azevedo
 
-- 🔭 Procuro oportunidade no Desenvolvimento Web
-- 🔭 Desenvolvedor Front-End
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas
-- 🌱 Estudo a linguagem JavaScript e framework Vue.js
-- 🌱 Estudo também HTML5 e CSS3 e framework Bootstrap
+- 🌱 Estudo a linguagem PL / SQL;
 
 
 <div align="center">
@@ -16,9 +13,8 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Melk-Html" heingth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Melk-Css" heingth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Melk-Bt" heingth="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Melk-Js" heingth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Melk-Nodejs" heingth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="Melk-Nodejs" heingth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
           
   
           
