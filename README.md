@@ -1,7 +1,6 @@
 ## Olá! Eu sou Melk Azevedo
 
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas
-- 🌱 Estudo a linguagem PL / SQL;
+- 🌱
 
 
 <div align="center">
